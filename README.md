@@ -68,4 +68,4 @@ It breaks visual barriers, simplifies interactions, and fosters inclusion by bri
 
 
 ## 📌 Poster
-![Final Poster](./poster.png)
+![Final Poster](./surf.pdf)
